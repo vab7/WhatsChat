@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "280498884356",
+    "project_id": "whatschat-98ee0",
+    "storage_bucket": "whatschat-98ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280498884356:android:369e1943652a9e709a4a51",
+        "android_client_info": {
+          "package_name": "com.belousov.whatschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280498884356-qth83bqn7mj4bmhbe0l36gsmrasl5blh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.belousov.whatschat",
+            "certificate_hash": "8380d53399ca798c5f5b4681eef12e9807ddab12"
+          }
+        },
+        {
+          "client_id": "280498884356-jh7ki8rui1qqv297ahfb6a4f1t1f4jr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGWOmPc-coXAWaqH8aeIUcqVDJWNSp6vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280498884356-jh7ki8rui1qqv297ahfb6a4f1t1f4jr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
